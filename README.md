@@ -1,0 +1,1 @@
+# django-mezzanine-config
